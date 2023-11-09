@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NotesWithFirebase</string>
+    <string name="create_account_welcome_text">Welcome!</string>
+    <string name="create_account_please_sign_up_to_get_started_text">Please, sign up to get started</string>
+    <string name="email_hint">Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="create_account_text">Create Account</string>
+    <string name="already_have_an_account_text">Already have an account?</string>
+    <string name="login_text">Login</string>
+    <string name="welcome_back_text">Welcome Back</string>
+    <string name="plese_login_text">Plese Login</string>
+    <string name="don_t_have_an_account_text">Don\'t have an account?</string>
+    <string name="title_text">Title</string>
+    <string name="enter_jottings_here_text">Enter jottings here</string>
+    <string name="list_of_notes_text">List of Notes</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="create_a_new_note_text">Create a new Note</string>
+    <string name="add_new_note_text">Add New Note</string>
+    <string name="update_note_text">Update Note</string>
+</resources>
